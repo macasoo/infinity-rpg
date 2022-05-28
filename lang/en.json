@@ -1,0 +1,24 @@
+{
+  "INFINITY.AbilityAgi": "Agility",
+  "INFINITY.AbilityAwa": "Awareness",
+  "INFINITY.AbilityBrw": "Brawn",
+  "INFINITY.AbilityCoo": "Coordination",
+  "INFINITY.AbilityInt": "Intelligence",
+  "INFINITY.AbilityPer": "Personality",
+  "INFINITY.AbilityWil": "Willpower",
+
+  "INFINITY.AbilityAgiAbbr": "agi",
+  "INFINITY.AbilityAwaAbbr": "awa",
+  "INFINITY.AbilityBrwAbbr": "brw",
+  "INFINITY.AbilityCooAbbr": "coo",
+  "INFINITY.AbilityIntAbbr": "int",
+  "INFINITY.AbilityPerAbbr": "per",
+  "INFINITY.AbilityWilAbbr": "wil",
+
+  "INFINITY.EffectCreate": "Create Effect",
+  "INFINITY.EffectToggle": "Toggle Effect",
+  "INFINITY.EffectEdit": "Edit Effect",
+  "INFINITY.EffectDelete": "Delete Effect",
+
+  "INFINITY.Add": "Add"
+}
